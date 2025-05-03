@@ -21,8 +21,8 @@ Apply dilation using cv2.dilate() on the image with the same kernel.
 Display and compare the original, eroded, and dilated images.
  
 # Program:
-## Developed by: BHUMIREDDY LAKSHMI VARDHAN REDDY
-## Reg NO: 212223240016
+## Developed by: MANGARI DEERAJ
+## Reg NO: 212223100031
 ```
 import cv2
 import numpy as np
